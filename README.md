@@ -6,6 +6,8 @@
 </div>
 
 ---
+### About Me
+
 - 🌱 Exploring advanced topics in **Data Science, Machine Learning, and AI.**
 - 💻 Aiming to pursue a career as a **Data Analyst.**
 ---
