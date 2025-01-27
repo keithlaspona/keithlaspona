@@ -1,52 +1,54 @@
 <div align="center">
-  <h3 align="center" style="font-family: 'Montserrat', sans-serif; font-size: 28px; color:#FF6347;">Hi I'm Keith! 👋🏻</h3>
-  <h4 align="center" style="font-family: 'Georgia', serif; font-size: 20px; color:#076878;">
-    A passionate 3rd-year BS Data Science student exploring the world of Data and AI 🌱
+  <h3 align="center" style="font-family: 'Oswald', sans-serif; font-size: 28px; color:#FF6347;">Hi I'm Keith! 👋🏻</h3>
+  <h4 align="center" style="font-family: 'Josefin Sans', sans-serif; font-size: 20px; color:#076878;">
+    A passionate 3rd-year BS Data Science student
   </h4>
 </div>
 
----
-### About Me
+<link href="https://fonts.googleapis.com/css2?family=Oswald:wght@400;700&family=Josefin+Sans:wght@400;700&display=swap" rel="stylesheet">
 
+---
 - 🌱 Exploring advanced topics in **Data Science, Machine Learning, and AI.**
 - 💻 Aiming to pursue a career as a **Data Analyst.**
+
 ---
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=keithlaspona&theme=blue-green&hide_border=false&include_all_commits=false&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=keithlaspona&theme=blue-green&hide_border=false&include_all_commits=false&count_private=true" alt="Keith Laspona GitHub Stats"/>
 </p>
 
 ---
+
 ### Languages and Tools
 
-<p align="left">
+<div align="center">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="30" height="30"/>
   </a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="30" height="30"/>
   </a>
   <a href="https://www.r-project.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="R" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="R" width="30" height="30"/>
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="30" height="30"/>
   </a>
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="30" height="30"/>
   </a>
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="30" height="30"/>
   </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="30" height="30"/>
   </a>
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="30" height="30"/>
   </a>
   <a href="https://streamlit.io" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/streamlit/streamlit-original.svg" alt="streamlit" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/streamlit/streamlit-original.svg" alt="Streamlit" width="30" height="30"/>
   </a>
-</p>
+</div>
 
 ---
 
