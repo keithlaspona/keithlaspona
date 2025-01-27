@@ -54,8 +54,9 @@
 
 ---
 
-<p align="center">
+<div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Poppin&pause=1000&color=488DF7&vCenter=true&width=470&lines=Growing+through+challenges;One+data-driven+decision+at+a+time.+%F0%9F%92%99" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Poppins&pause=1000&color=488DF7&vCenter=true&width=470&lines=Growing+through+challenges;One+data-driven+decision+at+a+time.+%F0%9F%92%99" 
+         alt="Typing SVG" />
   </a>
-</p>
+</div>
