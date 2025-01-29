@@ -1,17 +1,14 @@
-<div align="center">
-  <h3 align="center" style="font-family: 'Oswald', sans-serif; font-size: 28px; color:#FF6347;">Hi I'm Keith! 👋🏻</h3>
-  <h4 align="center" style="font-family: 'Josefin Sans', sans-serif; font-size: 20px; color:#076878;">
-    A passionate 3rd-year BS Data Science student
-  </h4>
-</div>
-
-<link href="https://fonts.googleapis.com/css2?family=Oswald:wght@400;700&family=Josefin+Sans:wght@400;700&display=swap" rel="stylesheet">
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=timeGradient&text=Hi!%20I'm%20Keith%20&desc=A%20passionate%203rd-year%20BS%20Data%20Science%20student&fontAlignY=35&descAlignY=53&animation=fadeIn&descSize=20"/>
+</p>
 
 ---
 - 🌱 Exploring advanced topics in **Data Science, Machine Learning, and AI.**
 - 💻 Aiming to pursue a career as a **Data Analyst.**
 
 ---
+
+### My Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=keithlaspona&theme=blue-green&hide_border=true&include_all_commits=false&count_private=true&rank_icon=github&hide=issues,contribs&card_width=400&line_height=30"/>
@@ -29,14 +26,21 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/archive/d/d0/20221103151430%21Google_Colaboratory_SVG_Logo.svg" width="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/supabase/supabase-original.svg" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/streamlit/streamlit-original.svg" alt="Streamlit" width="40" height="40"/>
 </div>
 
 ---
 
-### 🤳 Let's Connect!
+### Let's Connect!
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kthdbln) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/keithlaspona) 
 
