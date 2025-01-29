@@ -32,6 +32,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/QGIS_logo_new.svg" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/supabase/supabase-original.svg" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/>
