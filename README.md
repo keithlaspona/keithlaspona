@@ -14,12 +14,8 @@
 ---
 
 <p align="center">
-  <div style="display: inline-block; line-height: 30px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=keithlaspona&theme=blue-green&hide_border=false&include_all_commits=false&count_private=true" alt="Keith Laspona GitHub Stats"/>
-  </div>
-  <div style="display: inline-block;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=keithlaspona&theme=blue-green&hide_border=true&hide_title=true&layout=compact&card_width=400"/>
-  </div>
+  <img src="https://github-readme-stats.vercel.app/api?username=keithlaspona&theme=blue-green&hide_border=true&include_all_commits=false&count_private=true&rank_icon=github&hide=issues,contribs&card_width=400&line_height=30"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=keithlaspona&theme=blue-green&hide_border=true&hide_title=true&layout=compact&card_width=400"/>
 </p>
 
 ---
